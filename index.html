@@ -1,0 +1,107 @@
+<!doctype html>
+<html><head><title>EditorC4D</title></head>
+<body style='margin: 0px;padding: 0px;width: 100%;height: 100%;'>
+<form id='miforma' name="miforma" action="" method="post" enctype="multipart/form-data">
+<svg  id='contr' style='position:absolute; left:  0px;top:  0px;width:640px;height:640px;' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+<defs>
+<radialGradient id="rad0" cx="40%" cy="40%" r="99%" fx="40%" fy="40%"><stop offset="0" stop-color="navy"/><stop offset="1" stop-color="aqua"/></radialGradient>
+<radialGradient id="rad1" cx="50%" cy="50%" r="90%" fx="50%" fy="50%"><stop offset="0" stop-color="aqua"/><stop offset="95%" stop-color="navy"/></radialGradient>
+</defs>
+<polyline points='512,256,512,0,640,0,640,640,0,640,0,512,512,512,512,85,640,0,640,128,512,171,512,256,640,256,512,256,512,341,640,384,512,341,512,427,640,512,512,427,512,512,640,640,512,512,427,512,512,640,427,512,341,512,384,640,341,512,256,512,256,640,256,512,171,512,128,640,171,512,85,512,0,640,85,512,0,512,512,512,512,0' style='stroke:rgba(0,0,0,.5);fill:url(#rad0);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;' id='controlp'/>
+<polyline points='577,154,639,134,639,250,577,250,577,154'  
+style='fill:url(#rad1);stroke:rgba((0,0,0,.5);stroke-width:1;stroke-linecap:round;
+stroke-linejoin:round;' onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='new' />
+<polyline points='577,261,639,262,639,377,577,357,577,261' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='opn'/>
+<polyline points='577,47,639,6,639,122,577,143,577,47'     style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='sav'/>
+<polyline points='577,368,639,389,639,505,577,464,577,368' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='edt'/>
+<polyline points='514,174,565,158,565,250,514,251,514,174' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='img'/>
+<polyline points='514,260,565,260,565,354,514,337,514,260' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='trc'/>
+<polyline points='514,88,565,54,565,147,514,165,514,88'    style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='drw'/>
+<polyline points='514,346,565,364,565,457,514,424,514,346' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='hlp'/>
+<polyline points='88,514,165,514,154,547,66,547,88,514'    style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='b7'/>
+<polyline points='174,514,251,514,251,547,163,547,174,514' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='b8'/>
+<polyline points='260,514,338,514,349,547,260,547,260,514' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='b9'/>
+<polyline points='346,514,423,514,445,547,357,547,346,514' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='bm'/>
+<polyline points='65,549,153,549,140,587,40,587,65,549'    style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='b4'/>
+<polyline points='162,549,251,549,250,587,150,587,162,549' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='b5'/>
+<polyline points='260,549,349,549,361,587,261,587,260,549' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='b6'/>
+<polyline points='358,549,446,549,471,587,371,587,358,549' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='bs'/>
+<polyline points='39,589,139,589,122,639,6,639,39,589'     style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='b1'/>
+<polyline points='149,589,250,589,249,639,134,639,149,589' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='b2'/>
+<polyline points='261,589,361,589,377,639,262,639,261,589' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='b3'/>
+<polyline points='372,589,472,589,505,639,389,639,372,589' style='stroke:rgba(0,0,0,.5);fill:url(#rad1);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;'  onclick='javascript:op(this);'  onmouseover='javascript:over(this);' onmouseout   ='javascript:out(this);'  id='bi'/>
+</svg>
+<img    id='image' style='position:absolute; left:  0px;top:  0px;width:512px;height:512px;' src='' alt=''/>
+<canvas id='canva' style='position:absolute; left:  0px;top:  0px;width:512px;height:512px;' ></canvas>
+<div    id='pos'   style='position:absolute; left:  0px;top:640px;'></div>
+<svg    id='panel' style='position:absolute; left:  0px;top:  0px;width:512px;height:512px;' xmlns='http://www.w3.org/2000/svg' version='1.1'></svg>
+</form>	
+<script>
+//4D=[x=Longitude, y=Latitud, z=Altitud, t=Time]
+var lado=512;var x=256;var y=256;var z=16;var t=1;
+//$(document).ready(function() {$.getJSON('/js', function(data) {$('#panel').html(data.name);});});
+if (window.addEventListener) {document.getElementById('panel').addEventListener('mousemove', muevemouse, false);}
+else {document.getElementById('panel').onmousemove = muevemouse;}
+function muevemouse(e){e = window.event || e;var x = parseInt(e.clientX);var y = parseInt(e.clientY);S4(x,y,z,t);}
+if (window.addEventListener) {document.addEventListener('wheel',rueda,false);} 
+else {document.onwheel= rueda;}
+function rueda(e){e = window.event || e;var x = parseInt(e.clientX);var y = parseInt(e.clientY);
+var delta = Math.max(-1, Math.min(1, e.wheelDelta || -e.detail));
+z=z+delta;if (z<1 ){z=1;};if (z>lado){z=lado;};
+S4(x,y,z,t);
+}
+if (window.addEventListener) {document.addEventListener('keydown', teclas, false);} else {document.onkeydown = teclas;}
+function teclas(e){e = window.event || e;M4(e.keyCode);S4(x,y,z,t);}
+function M4(k){
+  // 4  
+	if(k===37 || k===100) {x=x-1;if(x<0){x=0;}}
+	// 6
+	if(k===39 || k===102) {x=x+1;if(x>lado){x=lado;}}
+	// 8
+	if(k===38 || k===104) {y=y-1;if(y<0){y=0;}}
+	// 2
+	if(k===40 || k===98)  {y=y+1;if(y>lado){y=lado;}}
+	// 7
+	if(k===36 || k===103) {x=x-1;if(x<0){x=0;}y=y-1;if(y<0){y=0;}}
+	// 9
+	if(k===33 || k===105) {x=x+1;if(x>lado){x=lado;}y=y-1;if(y<0){y=0;}}
+	// 3
+	if(k===34 || k===99)  {x=x+1;if(x>lado){x=lado;}y=y+1;if(y>lado){y=lado;}}
+	// 1
+	if(k===35 || k===97)  {x=x-1;if(x<0){x=0;}y=y+1;if(y>lado){y=lado;}}    
+	// 0
+	if(k===45 || k===96)  {}
+	// .
+	if(k===46 || k===110)  {}
+  // Enter
+	//if(k===13) {clicmouse();}
+	// +
+	if(k===107) {z=z+1;if (z>lado){z=lado;}}
+	// -
+	if(k===109) {z=z-1;if (z<1){z=1;}}
+	// /
+	if(k===111) {z=z-8;if (z<1){z=1;}}
+	// *
+	if(k===106) {z=z+8;if (z>lado){z=lado;}}
+}
+function S4(x,y,z,t){
+	var puntos=x+','+y+' '+(x+z)+','+y+' '+(x+z)+','+(y+z)+' '+x+','+(y+z)+' '+x+','+y;
+	if (document.getElementById('XYZT')){var o = document.getElementById('XYZT');} 
+  else {var o = document.createElementNS('http://www.w3.org/2000/svg', 'polyline');
+	  var estilo='5,5';var antialias = true;
+    o.setAttribute('shape-rendering', antialias ? 'auto' : 'optimizeSpeed');
+	  o.setAttribute('id', 'XYZT');
+	  o.setAttribute('stroke-dasharray', estilo);
+	  o.setAttribute('stroke', 'black');
+	  o.setAttribute('fill', 'none');
+  }
+	if (puntos) o.setAttribute('points', puntos);
+	if (!document.getElementById('XYZT')) {document.getElementById('panel').appendChild(o);}
+  document.getElementById('pos').innerHTML =x+' '+y+' '+z+' '+t;
+}
+function op(este)  {var es=substr(este.id,2,len(este,id);M4(es);}
+function over(este){este.setAttribute('style', 'fill: navy');este.setAttribute('cursor','pointer');}		
+function out(este) {este.setAttribute('style', 'fill: url(#rad1)');este.setAttribute('cursor','default');}
+</script>    
+</body>
+</html>
