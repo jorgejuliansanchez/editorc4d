@@ -12,7 +12,7 @@ Cada Click un disparo menos y mas Paz.
 
 El editorc4d permite dibujar lineas sobre fotos y grabarlas en formato XML.
 
-## editorc4d = Editor SVG
+## editorc4d = Editor .SVG
 
 | Puntos |    Roles    |
 | ------ | ------------|
