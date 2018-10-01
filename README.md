@@ -8,11 +8,18 @@ Al cierre de  cada Ciclo los **Jueces** valorarán y puntuarán los trabajos.
 
 # Objetivo
 
-Cada Click un disparo menos y mas Paz.
-
 El editorc4d permite dibujar lineas sobre fotos y grabarlas en formato XML.
 
 ## editorc4d = Editor .SVG
+Opciones:
+* **NEW** Nuevo Dibujo
+* **OPN** Abrir un Dibujo
+* **SAV** Grabar el dibujo
+* **IMG** Servicio para cargar una imagen o foto y realizarle un calcado a un recuadro
+* **TRC** Trazador vectorial 
+* **EDT** Editor de los vectores
+* **DRW** Dibujar 
+* **HLP** Ayuda
 
 | Puntos |    Roles    |
 | ------ | ------------|
