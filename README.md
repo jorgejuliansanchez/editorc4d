@@ -15,7 +15,7 @@ Opciones:
 * **NEW** Nuevo Dibujo
 * **OPN** Abrir un Dibujo
 * **SAV** Grabar el dibujo
-* **IMG** Servicio para cargar una imagen o foto y realizarle un calcado a un recuadro
+* **IMG** Subir imagen o foto y seleccionar un recuadro
 * **TRC** Trazador vectorial 
 * **EDT** Editor de los vectores
 * **DRW** Dibujar 
