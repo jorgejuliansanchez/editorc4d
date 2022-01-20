@@ -1,12 +1,12 @@
 # Origen
 
-Primero el medio impreso nos permitió ver la información, luego la radio nos enseñó a escuchar los programas, apareció la televisión que nos permite ser participantes pasivos en las noticias, pero evolucionó la internet que nos interconecta con casi todo y con casi todos nuestros sentidos.
+Primero el medio impreso nos permitió ver la información, luego la radio nos enseñó a escuchar los programas, apareció la televisión que nos permite ser participantes pasivos en las noticias, pero evolucionó la internet que nos conecta de manera interactiva.
 
 Si la TV te apresa y la Internet te distrae, utiliza la cuarta dimensión o 4D que utiliza internet, la perpectiva visual y el tiempo circular para definir en una malla virtual georeferenciada una serie de objetos o imagenes construidas vectorialmente por **Autores** que en un proceso de aprendizaje autónomo o con el apoyo de **Tutores** pueden crear instantes a través del **editorc4d**. 
 
 # Objetivo
 
-El editorc4d permite dibujar lineas sobre fotos y grabarlas en formato XML.
+El editorc4d permite dibujar lineas sobre fotos y grabarlas en formato htm.
 
 ## editorc4d = Editor .SVG
 Opciones:
