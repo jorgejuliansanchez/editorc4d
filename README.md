@@ -10,7 +10,7 @@ El editorc4d permite dibujar lineas sobre fotos y grabarlas en formato .htm
 
 ## editorc4d = Editor .SVG
 Opciones:
-* **NEW** Nuevo Dibujo
+
 * **OPN** Abrir un Dibujo
 * **SAV** Grabar el dibujo
 * **IMG** Subir imagen o foto y seleccionar un recuadro
