@@ -22,7 +22,7 @@ Opciones:
 | Puntos |    Roles    |
 | ------ | ------------|
 |   42   | **Autores** |
-|   22   | **Jueces**  |
 |   16   | **Tutores** |
+|   22   | **Jueces**  |
 
 Al cierre de  cada Ciclo los **Jueces** valorarán y puntuarán los trabajos.
