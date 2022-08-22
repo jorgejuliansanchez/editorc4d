@@ -1,4 +1,6 @@
-# Origen
+#EditorC4D
+
+## Origen
 
 * El medio impreso nos permite ver la información.
 * La radio nos enseña a escuchar los programas.
@@ -8,6 +10,6 @@
 * Las Redes Sociales de influencia, reputación e imágen
 * La **4D** que utiliza internet, perpectiva visual y un loop de tiempo circular 
 
-# Objetivo
+## Objetivo
 
 Crear una Inteligencia Artificial mediante la construcción de un Data-Set Georeferenciado con el EditorC4D
