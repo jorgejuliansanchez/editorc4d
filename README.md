@@ -1,5 +1,3 @@
-# EditorC4D
-
 ## Origen
 
 * El medio impreso nos permite ver la información.
@@ -12,4 +10,6 @@
 
 ## Objetivo
 
-Crear una Inteligencia Artificial mediante la construcción de un Data-Set Georeferenciado con el EditorC4D
+Crear una Inteligencia Artificial mediante la construcción de un Data-Set Georeferenciado 
+con el [EditorC4D](https://jorgejuliansanchez.github.io/editorc4d/editorc4d.htm)
+
