@@ -2,11 +2,13 @@
 
 Primero el medio impreso nos permitió ver la información, luego la radio nos enseñó a escuchar los programas, apareció la televisión que nos permite ser participantes pasivos en las noticias, pero evolucionó la internet que nos conecta de manera interactiva.
 
-Si la TV te apresa y las Redes Sociales te distraen, utiliza la cuarta dimensión o 4D que utiliza internet, la perpectiva visual y el tiempo circular para definir en una malla virtual georeferenciada una serie de objetos o imágenes construidas vectorialmente por **Autores** que en un proceso de aprendizaje autónomo o con el apoyo de **Tutores** pueden crear instantes a través del **editorc4d**. 
+Si la TV te apresa y las Redes Sociales te distraen, utiliza la Cuarta Dimensión o 4D que utiliza internet, la perpectiva visual y en un loop de tiempo circular para definir en una malla virtual georeferenciada una serie de objetos o imágenes construidas vectorialmente por **Autores** que en un proceso de aprendizaje automático de Machine Learning pueden crear instantes a través del **editorc4d**. 
 
 # Objetivo
 
-El editorc4d permite dibujar lineas sobre fotos y grabarlas en formato .htm
+Construir un Data-Set Georeferenciado
+El editorc4d permite a los **Autores** dibujar polylineas sobre fotos y grabarlas en formato .htm
+
 
 ## editorc4d = Editor .SVG
 Opciones:
@@ -21,8 +23,4 @@ Opciones:
 
 | Puntos |    Roles    |
 | ------ | ------------|
-|   42   | **Autores** |
-|   16   | **Tutores** |
-|   22   | **Jueces**  |
-
-Al cierre de  cada Ciclo los **Jueces** valorarán y puntuarán los trabajos.
+|   42   |  |
