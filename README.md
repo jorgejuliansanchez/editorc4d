@@ -6,7 +6,7 @@
 * El internet nos conecta de manera interactiva.
 * Las Apps de los celulares que hacen de todo. 
 * Las Redes Sociales de influencia, reputación e imágen
-* La **4D** que utiliza internet, perpectiva visual y un loop de tiempo circular 
+* La **4D** que utiliza internet, perspectiva visual y un loop de tiempo circular 
 
 ## Objetivo
 
